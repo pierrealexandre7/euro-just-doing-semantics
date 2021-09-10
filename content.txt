@@ -1,11 +1,31 @@
-Super Epic Tile Layer
+<!DOCTOTYPE html>
+<html lang="en-ca">
+  <head>
+    <meta charset="utf-8">
+    <title>Super Epic Tile Layer</title>
+    <meta name="viewpoint" content="width=device-width,intial-scale1">
+    <link href="css/main.css" rel="stylesheet">
+  </head>
+  <body>
 
-$35
-(In stock)
+  <article>
+  <header>
+    <h1>Super Epic Tile Layer</h1>
 
-Ages: 8+
-Number players: 2–5
-Length: 45 min
+    <strong>$35</strong>
+    <em>(In stock)</em>
+  </header>
+
+  <img src="image"images/placeholder-4by3.svg" alt="">
+
+  <dl>
+    <dt>Ages:</dt>
+    <dd>8+</dd>
+    <dt>Number players:</dt>
+    <dd>2–5</dd>
+    <dt>Length:</dt>
+    <dd>45 min</dd>
+  </dl>
 
 Average Rating: 4/5
 
